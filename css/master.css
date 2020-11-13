@@ -7,57 +7,52 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 44px -27px 50px 0px
-  padding: 0em;
   color: rgb(0, 0, 0);
-
 }
 
+
+
+.textbas{
+  padding-top: 50px;
+  padding-left: 1050px;
+}
 body {
   background-color: rgb(0, 0, 0);
-
-
 }
-
-
 
 #section-02{
-  margin-left: 20em;
-  margin-right: 21em;
-  margin-top: 10em;
-  margin-bottom: 5em;
-  align-items: : center;
-
-}
-
-.shadowbox{
-  width: 20em;
- border: 5px solid #333;
- box-shadow: 8px 8px 5px #444;
- padding: 20px 30px;
-
-
-}
-
-.section-04{
-  no-repeat top center;
-width: 40em;
-height: 20em;
-display: flex;
+background: url('images/draw.jpg'); no-repeat top center;
+  min-height: 100vh;
 background-size: cover;
+background-attachment: fixed;
+display: flex;
+flex-wrap: wrap;
+color: rgb(0, 0, 0);
+}
 
-  background-image: url('images/BG_02.jpg')
-  width: 20em;
- border: 5px solid #333;
- padding: 20px 40px;
+.nav_item{
+  font-size: white;
+}
+nav a {
+
+  color: white;
+display : contents;
+font-size: 1.5em;
+margin-left: 100px;
+margin-right: 100px;
 
 }
-#section-04{
 
-  display: flex;
- justify-content: center;
- align-items: center;
- display wrap;
+
+#section-03{
+  background: url('images/foxy.png'); no-repeat top center;
+  padding-bottom: 200px;
+align-items: left;
+padding-right: 100px;
+padding-top: 10px;
+
+
+
 
 
 }
